@@ -1,2 +1,5 @@
 <!--pages/about/about.wxml-->
-<text>pages/about/about.wxml</text>
+
+<text>tag1</text>
+<text>github还能这样用</text>
+<button size="mini">按钮</button>
